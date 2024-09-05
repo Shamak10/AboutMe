@@ -12,7 +12,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.com/users/940038834475925544" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dharmin.vercel.app"><img width="32px" alt="nashrapov.com" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://shamak.vercel.app"><img width="32px" alt="nashrapov.com" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
 
 </p>
 
@@ -31,7 +31,7 @@
 
 •⁠  ⁠👀 I’m interested in all types of VM and vulnerability exploiting
 •⁠  ⁠🌱 I’m currently learning network security
-•⁠  ⁠📫 How to reach me dharminp976@gmail.com
+•⁠  ⁠📫 How to reach me shamakjariwala@gmail.com
 •⁠  ⁠😄 Pronouns: he/him
 •⁠  ⁠⚡ Fun fact: I have my own DNS server at my home 
 
