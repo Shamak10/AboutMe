@@ -10,12 +10,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/shamak-patel-aa57b1262//"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com/users/940038834475925544" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://shamak.vercel.app"><img width="32px" alt="nashrapov.com" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-
-</p>
-
 <br/>
 
 <p align="center">
