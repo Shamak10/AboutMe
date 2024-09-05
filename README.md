@@ -19,13 +19,13 @@
 <br/>
 
 <p align="center">
- <a  href="https://github.com/patel5d2?tab=followers">
+ <a  href="https://github.com/shamak10?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/patel5d2?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
  
 <a href="mailto:shamakjariwala@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
-<a href="https://github.com/patel5d2?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Of%20My%20Repos-640465?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<a href="https://github.com/shamak10?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Of%20My%20Repos-640465?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
 </p>
 
